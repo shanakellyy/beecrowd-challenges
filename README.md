@@ -4,7 +4,7 @@ Este repositório contém minhas soluções para os desafios do [Beecrowd](https
 Estou utilizando este espaço para acompanhar minha evolução, comparar implementações em diferentes linguagens e melhorar minha lógica de programação. 🚀
 
 ## 📊 Progresso
-- ✅ **Desafios resolvidos**: 7 
+- ✅ **Desafios resolvidos**: 13
 - 💻 **Linguagens utilizadas**: JavaScript, Python
 
 ## 🔥 Objetivos
