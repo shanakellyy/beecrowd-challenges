@@ -10,7 +10,7 @@ rl.question("", (a) => {
       rl.question("", (d) => {
         const diferenca = parseInt(a) * parseInt(b) - parseInt(c) * parseInt(d);
 
-        console.log(`DIFERENÇA = ${diferenca}`);
+        console.log(`DIFERENCA = ${diferenca}`);
         rl.close();
       });
     });
