@@ -5,7 +5,7 @@ Estou utilizando este espaço para acompanhar minha evolução, comparar impleme
 
 ## 📊 Progresso
 
-- ✅ **Desafios resolvidos**: 21
+- ✅ **Desafios resolvidos**: 23 (1023 ainda não resolvido)
 - 💻 **Linguagens utilizadas**: JavaScript, Python
 
 ## 🔥 Objetivos
